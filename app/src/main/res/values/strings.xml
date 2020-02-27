@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ITunesAlbums</string>
+    <string name="searchHint">Search</string>
+    <string name="ButtonBackToAlbums">Back to albums</string>
+    <string name="album_artwork">Album Artwork</string>
+    <string name="big_album_artwork">Big album artwork</string>
+    <string name="line">- - - - - - - - - - - - - - - - - - - - - - - -</string>
+    <string name="loading">Loading ...</string>
+    <string name="no_results_or_network_error">No results or network error!</string>
+</resources>
